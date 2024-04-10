@@ -48,6 +48,7 @@ Some free podcasts for the .NET Developers.
 ## [Tools](./Tools/README.md)
 List of some tools that you need to have in your toolbox.
 
+<!--
 ## [About Me](#about-me)
 
 I am Muhammad Waseem from Pakistan , Senior Software Enineer (.NET) and a tech enthusiast. 
@@ -82,7 +83,7 @@ This repository is designed to support individuals in the .NET community. The au
 ## [Affiliate Link Disclosure](#about-affiliates)
 
 Links marked with an asterisk (*) in this repository are affiliate links. If you click on these links and make a purchase, the author may earn a commission at no additional cost to you. 
-
+-->
 
 
 
